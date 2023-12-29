@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "b8fc2d95d8bb843c4082ee907b750e5cb88dc513d5c92ff3132b934796a27265"
+            "sha256": "86a9a7815f9712b1545567e6e82dfc281e05c78b62c5b47f0b6866e04df903c1"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -51,6 +51,24 @@
             "markers": "python_version >= '3.6'",
             "version": "==3.14.0"
         },
+        "drf-nested-routers": {
+            "hashes": [
+                "sha256:1407565abc7bada37c162c7e11bf214ae71625a17fdec6d9a47a17f4a3627d32",
+                "sha256:9a6813554020134a02e62f8c2934b2047717f7da06f8b801752c521e43735c63"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.8'",
+            "version": "==0.93.5"
+        },
+        "install": {
+            "hashes": [
+                "sha256:0d3fadf4aa62c95efe8d34757c8507eb46177f86c016c21c6551eafc6a53d5a9",
+                "sha256:e67c8a0be5ccf8cb4ffa17d090f3a61b6e820e6a7e21cd1d2c0f7bc59b18e647"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '2.7'",
+            "version": "==1.3.5"
+        },
         "mysqlclient": {
             "hashes": [
                 "sha256:1f8889cc5f0141bb307b915e981a66793df663ace92259344661084a7dd8d12a",
@@ -66,6 +84,15 @@
             "index": "pypi",
             "markers": "python_version >= '3.8'",
             "version": "==2.2.1"
+        },
+        "pip": {
+            "hashes": [
+                "sha256:5052d7889c1f9d05224cd41741acb7c5d6fa735ab34e339624a614eaaa7e7d76",
+                "sha256:7fd9972f96db22c8077a1ee2691b172c8089b17a5652a44494a9ecb0d78f9149"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.7'",
+            "version": "==23.3.2"
         },
         "pytz": {
             "hashes": [
